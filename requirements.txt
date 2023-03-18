@@ -1,0 +1,6 @@
+tensorflow
+numpy
+pytorch-pretrained-bert 
+torch
+pandas
+openpyxls
